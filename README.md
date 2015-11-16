@@ -24,5 +24,5 @@ Copy "propc.snippet" to Visual Studio snippets folder in "path\to\Visual Studio 
 -OR-
 Go to Visual Studio -> Tools -> Code Snippets Manager then select language "CSharp", click "My Code Snippets" and click "Import"
 
-After correctly imported you'll be able to use the newly added shortcut in your Visual Studio. Just type "prop" on any C# class that implement INotifyPropertyChanged.
+After correctly imported you'll be able to use the newly added shortcut in your Visual Studio. Just type "propc" on any C# class that implement INotifyPropertyChanged then press TAB twice.
 You can change this snippet as you need.
